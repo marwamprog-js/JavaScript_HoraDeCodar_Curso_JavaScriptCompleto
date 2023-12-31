@@ -1,0 +1,2 @@
+Texto por write file
+Teste teste

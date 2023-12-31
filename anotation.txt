@@ -1,0 +1,23 @@
+### Estudar mais
+
+## Arrays 
+- Slice()
+- forEach
+- POP e PUSH
+- includes() -> verifica se o array tem determinado elemento.
+- Reverse() -> Inverte a ordem do Array
+- ...args -> Rest Operator recebe varios valores transformando em array
+
+## Strings
+- trim() -> remove tudo que não é string
+- padStart(qtdCaracteresString, valorPreenchido) -> Inserir caracteres antes da string
+- split() -> Divide uma string por um separador, e retorna um array
+- join() -> junta elementos em um array em um frase, por meio de um separador
+- repeat() -> Repete uma string de acordo com um parametro number //'repete'.repeat(20)
+
+### OBJETOS
+- Destructuring -> Podemos definir variáveis com propriedades do objeto com uma notação diferente. 
+
+### Json
+JSON.stringify() -> Transforma um json em uma string
+JSON.parse() -> Transforma uma string em um Json
